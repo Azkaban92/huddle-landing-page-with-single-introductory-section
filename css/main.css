@@ -107,7 +107,7 @@ body {font-size: 18px;
       background-color: #230081;
       color: white;}
 
-header   {background-image: url("../img/bg-mobile.svg");
+.hero   {background-image: url("../img/bg-mobile.svg");
           background-size: cover;}
 
 main {display: flex;
@@ -171,13 +171,49 @@ main {display: flex;
 
 {
 
+body {background-color: #674bb1;
+      margin-left: 80px;
+      margin-right: 93px;
+      color: white;
+      background-image: url("../img/bg-desktop.svg");}
 
+#logo {float: left; margin-bottom: 100px; margin-top: 65px;}
 
+.flex-container {display: flex;
+                 clear:both;
+                 align-items: center;
+                 justify-content: center;}
 
+.column1 {width: 40%;}
 
+.column2 {width: 40%;
+          margin-left: 60px;}
 
+#head0 {margin-top: 80px;
+        font-size: 40px;
+        font-family: "Poppins";
+        font-weight: 400;}
 
+.par {font-size: 16px;
+      font-family: "Open Sans";}
 
+#head1 {border: 1px solid white;
+        color: #674bb1;
+        background-color: white;
+        padding: 10px 30px 10px 30px;
+        width: 10%;
+        border-radius: 50px;
+        font-family: "Poppins";
+        font-weight: 400;}
+
+.icons {text-align: right;
+        margin-bottom: 40px;
+        margin-top: 40px;
+        font-size: 40px;}
+
+.fa-facebook {margin: 0px 10px;}
+.fa-twitter {margin: 0px 10px;}
+.fa-instagram {margin: 0px 10px;}
 
 }
 /* ==========================================================================
