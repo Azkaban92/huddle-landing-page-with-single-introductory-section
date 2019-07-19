@@ -150,6 +150,19 @@ main {display: flex;
         border-radius: 50px;
         padding: 10px 0px 10px 0px;}
 
+
+/* Icons */
+
+.icons {text-align: center; margin-top: 65px; margin-bottom: 40px;}
+
+.fa-facebook-f {margin-left: 10px;
+                margin-right: 10px;}
+
+.fa-twitter {margin-left: 10px;
+             margin-right: 10px;}
+
+.fa-instagram {margin-left: 10px;
+               margin-right: 10px;}
 }
 
 /* Desktop */
