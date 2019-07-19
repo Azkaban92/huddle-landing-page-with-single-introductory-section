@@ -139,7 +139,8 @@ main {display: flex;
                  flex-flow: column wrap;
                  width: 100%;
                  align-items: center;
-                 text-align: center;}
+                 text-align: center;
+                 justify-content: center;}
 
 #head1 {text-align: center;
         margin-top: 30px;
@@ -148,7 +149,8 @@ main {display: flex;
         background-color: white;
         color: #674bb1;
         border-radius: 50px;
-        padding: 10px 0px 10px 0px;}
+        padding: 10px 0px 10px 0px;
+        margin: auto;}
 
 
 /* Icons */
