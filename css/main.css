@@ -112,7 +112,8 @@ header   {background-image: url("../img/bg-mobile.svg");
 
 main {display: flex;
       flex-flow: column wrap;
-      align-items: center;}
+      align-items: center;
+      text-align: center;}
 
 .heading {font-family: "Poppins";
           font-weight: 400;
@@ -148,6 +149,19 @@ main {display: flex;
         color: #674bb1;
         border-radius: 50px;
         padding: 10px 0px 10px 0px;}
+
+}
+
+/* Desktop */
+
+@media screen and (min-width: 1440px)
+
+{
+
+
+
+
+
 
 
 
