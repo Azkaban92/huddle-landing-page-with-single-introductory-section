@@ -108,7 +108,8 @@ body {font-size: 18px;
       color: white;}
 
 .hero   {background-image: url("../img/bg-mobile.svg");
-          background-size: cover;}
+        background-size: cover;
+        width: 100%;}
 
 main {display: flex;
       flex-flow: column wrap;
