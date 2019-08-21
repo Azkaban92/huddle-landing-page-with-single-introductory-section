@@ -104,8 +104,10 @@ body {color: white;}
 
 .logo {float: left;}
 
-.flex-container {display: flex;
+.flex-container,
+.column2        {display: flex;
                  width: 100%;
+                 flex-flow: column nowrap;
                  align-items: center;
                  text-align: center;
                  justify-content: center;}
