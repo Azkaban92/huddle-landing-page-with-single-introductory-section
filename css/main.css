@@ -137,7 +137,7 @@ body {color: white;}
 
 /* Mobile */
 
-@media screen and (max-width: 767px)
+@media screen and (min-width: 280px) and (max-width: 767px)
 
 {
 
