@@ -156,7 +156,7 @@ main {display: flex;
 
 .par {font-family: "Open Sans";
       font-weight: 400;
-      margin: 0 40px;}
+      margin: 30px 40px 0 40px;}
 
 .logo {margin: 40px 0 70px -20px;
        transform: scale(0.5);}
@@ -169,7 +169,8 @@ main {display: flex;
 .flex-container {flex-flow: column wrap;}
 
 .column2__reg {width: 30%;
-        padding: 10px 0px 10px 0px;}
+               margin-top: 30px;
+               padding: 10px 0px 10px 0px;}
 
 /* Icons */
 
